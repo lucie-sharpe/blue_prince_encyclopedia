@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/codes/","tags":["Hide"],"updated":"2025-04-12T14:56:51.545+01:00"}
+---
+
+
+- [[The Grounds/Orchard\|Orchard]]: **1128**
+	- *See [[Rooms/Red Rooms/Darkroom\|Darkroom]]*
+- [[Documents/Terminal\|Terminal]] Login: **swansong**
+- [[Documents/Admin Terminal\|Admin Terminal]]: 
+- Safes
+	- [[Rooms/Bedoorms/Boudoir\|Boudoir]]: **1225**
+	- [[Rooms/Base/24 - Office\|24 - Office]]:
+	- [[Rooms/Outer Rooms/Shelter\|Shelter]]: **Day one is Nov 7th**
+- VAC Indicators: **Off | Blue | Green | White | Red | Purple**
+	- *See [[Puzzles/VAC Indicator\|VAC Indicator]] puzzle*
