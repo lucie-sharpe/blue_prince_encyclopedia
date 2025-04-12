@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/directory/","hideInGraph":true,"pinned":true,"tags":["Hide"],"updated":"2025-04-12T17:53:04.293+01:00"}
+{"dg-publish":true,"permalink":"/directory/","hideInGraph":true,"pinned":true,"tags":["Hide"],"updated":"2025-04-12T18:32:26.662+01:00"}
 ---
 
 
@@ -59,7 +59,7 @@
 - [[Rooms/Bedoorms/Her Ladyship's Chamber\|Her Ladyship's Chamber]]
 - [[Rooms/Bedoorms/Servant's Quarters\|Servant's Quarters]]
 - [[Rooms/Bedoorms/Nursery\|Nursery]]
-- [[Rooms/Bedoorms/--Unknown bedroom\|--Unknown bedroom]]
+- [[Rooms/Bedoorms/Master Bedroom\|Master Bedroom]]
 ### Halls
 - [[Rooms/Halls/Corridor\|Corridor]]
 - [[Rooms/Halls/East Wing Hall\|East Wing Hall]]
