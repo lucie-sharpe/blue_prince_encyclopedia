@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codes/","pinned":true,"tags":["Hide"],"noteIcon":"","updated":"2025-04-12T15:54:23.003+01:00"}
+{"dg-publish":true,"permalink":"/codes/","hideInGraph":true,"pinned":true,"tags":["Hide"],"updated":"2025-04-12T16:02:37.030+01:00"}
 ---
 
 

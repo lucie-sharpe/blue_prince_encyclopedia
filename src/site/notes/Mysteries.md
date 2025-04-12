@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mysteries/","pinned":true,"tags":["Hide"],"noteIcon":"","updated":"2025-04-12T15:53:26.128+01:00"}
+{"dg-publish":true,"permalink":"/mysteries/","hideInGraph":true,"pinned":true,"tags":["Hide"],"updated":"2025-04-12T16:02:43.346+01:00"}
 ---
 
 
