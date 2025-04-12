@@ -1,4 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/items/tools/","updated":"2025-04-12T16:08:12.767+01:00"}
+{"dg-publish":true,"permalink":"/items/tools/","updated":"2025-04-12T17:22:45.947+01:00"}
 ---
 
+## Dynamite
+- Can not pick up by default

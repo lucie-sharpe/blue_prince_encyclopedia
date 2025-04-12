@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/rooms/outer-rooms/trading-post/","updated":"2025-04-12T16:05:38.361+01:00"}
+{"dg-publish":true,"permalink":"/rooms/outer-rooms/trading-post/","updated":"2025-04-12T17:23:20.511+01:00"}
 ---
 
-Provides a method to trade items for other items. Will eventually lock trades to [[Items/Standard Items#Dice\|Standard Items#Dice]] so that you can not chain trades to much and get any item.
+Provides a method to trade items for other items. Will eventually lock trades to [[Items/Standard Items#Dice\|Dice]] so that you can not chain trades to much and get any item.
 
 ## Puzzle box
 - Box with a 3-by-3 grid of coloured tiles surrounded by 4 mountains in each corner
@@ -12,7 +12,7 @@ Provides a method to trade items for other items. Will eventually lock trades to
 - Clicking a yellow tile will swap it with the tile above
 - Clicking a purple tile will rotate the adjacent tiles (including diagonally) one place clockwise
 
-- Reward: [[Items/Special Items#Allowance Token\|Special Items#Allowance Token]]
+- Reward: [[Items/Special Items#Allowance Token\|Allowance Token]]
 
 ## Possible Items
-- [[Items/Objects#Dynamite\|Objects#Dynamite]]
+- [[Items/Tools#Dynamite\|Dynamite]]

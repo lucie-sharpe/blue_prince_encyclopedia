@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/directory/","hideInGraph":true,"pinned":true,"tags":["Hide"],"updated":"2025-04-12T16:02:40.592+01:00"}
+{"dg-publish":true,"permalink":"/directory/","hideInGraph":true,"pinned":true,"tags":["Hide"],"updated":"2025-04-12T17:53:04.293+01:00"}
 ---
 
 
@@ -95,7 +95,7 @@
 ### Found Rooms
 - [[Rooms/Found Floorplans/Planetarium\|Planetarium]]
 - [[Rooms/Found Floorplans/Mechanarium\|Mechanarium]]
-## Outside Areas
+### Outer Rooms
 - [[Rooms/Outer Rooms/Hovel\|Hovel]]
 - [[Rooms/Outer Rooms/Root Cellar\|Root Cellar]]
 - [[Rooms/Outer Rooms/Schoolhouse\|Schoolhouse]]
@@ -103,10 +103,9 @@
 - [[Rooms/Outer Rooms/Shrine\|Shrine]]
 - [[Rooms/Outer Rooms/Tomb\|Tomb]]
 - [[Rooms/Outer Rooms/Toolshed\|Toolshed]]
+- [[Rooms/Outer Rooms/Trading Post\|Trading Post]]
+## The Grounds
+- [[Outside/The Grounds\|The Grounds]]
+- [[Outside/Apple Orchard\|Apple Orchard]]
+- [[Outside/New Mine\|New Mine]]
 ## People
-## Puzzles
-- [[Puzzles/VAC Indicator\|VAC Indicator]]
-- [[Puzzles/Blue Flames\|Blue Flames]]
-- [[Puzzles/Art\|Art]]
-- [[Puzzles/Numbers#Dartboard\|Numbers#Dartboard]]
-- [[Puzzles/Numbers#Hovel Note\|Numbers#Hovel Note]]
